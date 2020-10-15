@@ -20,14 +20,14 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
-    "css-loader": "^3.2.0",
+    "@babel/core": "^7.12.0",
+    "@babel/preset-env": "^7.12.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
     "style-loader": "^0.21.0",
-    "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7"
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "compression": "^1.7.2",
